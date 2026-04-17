@@ -2,13 +2,6 @@
 ````markdown
 # 🎓 Farewell Voting App
 
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Built%20With-Vite-646CFF?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 A clean, minimal, and reusable farewell voting platform for classes.  
 Students get one-time voting credentials, vote for classmates under custom titles, and admins manage everything from a simple dashboard.
 
